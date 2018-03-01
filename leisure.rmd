@@ -1,0 +1,28 @@
+---
+title: "Chloe's **favorite** **food**"
+---
+<!-- use the three dash lines to wrap around the text to create a title -->
+
+##List of Chloe's favorite food:
+1. Fruits:
+    + Strawberry
+    + Cherry
+    + Grape
+    + Kiwi
+2. Potato Chips
+3. Tofu
+
+
+##Order of Chloe's favorite Novelist 
+* J.K. Rowling
+    + Harry Potter and the Deathly Hallows
+* Jane Austen
+    + Pride and Prejudice
+    + Sense and Sensibility
+    
+    
+##Chloe's favorite Singers & Songs  
+Carpenters          | Coldplay      |
+------------------  | ------------- |
+Top of the world    | Yellow        |
+Yesterday once more | A Sky Full of Stars |

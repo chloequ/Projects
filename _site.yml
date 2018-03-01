@@ -1,0 +1,15 @@
+name: " Chloe's website"
+output_dir: "."
+navbar:
+  title: "My Website"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+    - text: "me"
+      href: aboutme.html
+      
+output:
+  html_document:
+    theme: cosmo
